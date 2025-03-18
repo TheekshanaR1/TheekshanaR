@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Bsc.Hons in Information Technology**
 
-- 📫 How to reach me **theekshanavimukthi1@gmail.com**
+- <!--📫 How to reach me **theekshanavimukthi1@gmail.com**-->
 
 
 
