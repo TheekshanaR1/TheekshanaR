@@ -2,7 +2,6 @@
 <h3 align="center">A passionate IT Student from Srilanka</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Thor679" alt="Thor679" /></a> </p>
 
 - 🌱 I’m currently learning **Bsc.Hons in Information Technology**
 
