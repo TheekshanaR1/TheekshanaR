@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lxcGZqaGhuajQwYXNxM3A5ZmdwcGljdnZ5bHd2NnB4MW1ncGR2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="Animated GIF" width="350"/>
+</p>
+<br>
+
 <h1 align="center">Hi 👋, I'm Theekshana!</h1>
 <h3 align="center">A passionate Data Science Undergraduate from Sri Lanka 🇱🇰</h3>
 
